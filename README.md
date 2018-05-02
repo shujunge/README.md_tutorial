@@ -17,5 +17,5 @@ int main()
 =
 
 
-![](https://github.com/shujunge/README.md_tutorial/edit/master/output1.gif)
+![](https://github.com/shujunge/README.md_tutorial/output1.gif)
 
