@@ -12,3 +12,8 @@ int main()
   return 0;
 }
 ~~~
+
+结果展示
+=
+![](https://github.com/shujunge/README.md_tutorial/edit/master/output.gif)
+
