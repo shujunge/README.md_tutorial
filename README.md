@@ -16,5 +16,5 @@ int main()
 结果展示
 =
 
-![结果](https://github.com/shujunge/README.md_tutorial/raw/output1.gif)
+![结果](https://github.com/shujunge/README.md_tutorial/blob/master/output1.gif)
 
