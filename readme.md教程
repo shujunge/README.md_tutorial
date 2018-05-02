@@ -1,0 +1,58 @@
+README.MD教程
+(1)大纲标题
+大标题  
+====  
+
+中标题  
+------- 
+
+#一级标题  
+##二级标题  
+###三级标题  
+####四级标题  
+#####五级标题  
+######六级标题  
+
+(2) 部分文字的高亮,使用＇　＇
+thank 'you'.
+
+(3)文字超链接
+给一段文字加入超链接的格式是这样的 [ 要显示的文字 ]( 链接的地址 )
+eg:
+[我的博客](http://blog.csdn.net/guodongxiaren)  
+or
+[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示") 
+
+(4)插入符号 圆点符.
+eg:
+* yourtxt
+
+(5)缩进
+eg:
+＞
+＞＞
+＞＞＞
+＞＞＞＞
+
+(6)插入图片
+1.网上的图片　![](url)形式:
+eg:
+![](http://www.baidu.com/img/bdlogo.gif) 
+
+2.仓库的图片
+eg:
+![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
