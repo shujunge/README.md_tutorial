@@ -5,7 +5,7 @@ c++程序
 ==
 ~~~
 #include<iostrem>
-using namespace std:
+using namespace std;
 int main()
 {
   cout<<"hello README.MD"<<endl;
