@@ -4,7 +4,7 @@ README.md编写教程
 c++程序
 ==
 ~~~
-#include<iostrem>
+#include<iostream>
 using namespace std;
 int main()
 {
